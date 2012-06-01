@@ -5,19 +5,20 @@ This is a CakePHP plugin to use kcaptcha easily.
 ## Requirements
 
 - PHP >= 4
-- CakePHP >= 1.3
+- CakePHP >= 2.0
 
 ## Installation
 
-In your plugins directory,
+In your Plugin directory,
 
-	git clone git://github.com/hiromi2424/CakePHP-Kcaptcha-Plugin.git kcaptcha
+	git clone git://github.com/stahoos/CakePHP-Kcaptcha-Plugin.git KCaptcha
 
 Or in current directory of your repository,
 
-	git submodule add git://github.com/hiromi2424/CakePHP-Kcaptcha-Plugin.git plugins/kcaptcha
+	git submodule add git://github.com/stahoos/CakePHP-Kcaptcha-Plugin.git Plugin/KCaptcha
 
-If you want to use your kcaptcha library(maybe for your config file), put the files into `vendors/kcaptcha`.
+If you want to use your kcaptcha library(maybe for your config file), put the files into `vendor/kcaptcha`.
+in folder `vendor/kcaptcha1` is old 1.2.6 version
 
 ## Usage
 

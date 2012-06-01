@@ -4,7 +4,7 @@ This is a CakePHP plugin to use kcaptcha easily.
 
 ## Requirements
 
-- PHP >= 4
+- PHP >= 5
 - CakePHP >= 2.0
 
 ## Installation
